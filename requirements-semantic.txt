@@ -1,0 +1,6 @@
+# Add Hugging Face embeddings and FAISS to the core application.
+-r requirements.txt
+langchain-community==0.4.2
+langchain-huggingface==1.2.2
+sentence-transformers==5.7.0
+faiss-cpu==1.15.1
