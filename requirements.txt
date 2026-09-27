@@ -1,0 +1,9 @@
+# Core package versions checked when this project was built.
+# The optional semantic installation may resolve additional shared dependencies.
+streamlit==1.64.0
+pypdf==6.10.0
+langchain-core==1.6.4
+langchain-text-splitters==1.1.2
+scikit-learn==1.8.0
+google-genai>=1.0.0
+python-dotenv==1.2.3
